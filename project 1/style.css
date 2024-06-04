@@ -1,0 +1,240 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+.intro {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f4f1eb;
+    padding: 20px;
+}
+.image img {
+    width: 65%;
+    border: 3px solid black;
+    margin-left: 80px;
+}
+.name {
+    display: flex;
+        flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       margin-right: 100px;
+       line-height: 0px;
+}
+h1 {
+   
+    font-size: 30px;
+    margin-top: -20px;
+    margin-right: 30px;
+    margin-left: -80px;
+
+}
+
+h2 {
+    font-size: 26px;
+    color: #5b5b5b;
+}
+.button {
+    line-height: 15px;
+    color: white;
+    background-color: black;
+    padding: 0px 70px;
+    font-size: 15px;
+}
+
+.main-discription {
+    display: flex;
+}
+.para{
+    
+    margin-top: 290px;
+    margin-left: -187px;
+    font-size: x-large;
+    }
+.laptopimg img{
+    width: 400px;
+    height: 600px;
+    margin: 80px 50px;
+    margin-right: 120px;
+    border: black 3px solid;
+}
+.about-me {
+    align-content: center;
+    font-size: 30px;
+    padding: 80px;
+    text-align: justify;
+    margin-left: -80px;
+    margin-bottom: 300px;
+    display: flex;
+    margin-top: 150px;
+    margin-right: -110px;
+   
+}
+
+.discription {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.experience {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4f1eb;
+    padding: 80px;
+    font-size: 20px;
+}
+.relevant-experience {
+    font-size: 10px;
+    padding-right: -250px;
+    display: flex;
+}
+.year {
+    padding: 30px;
+    margin-left: 10px;
+}
+.year1{
+   
+    margin-left: -110px;
+}
+.year2{
+    margin-left: -110px;
+} 
+.year3{
+    margin-left: -110px;
+} 
+.Certification{
+    font-size: 50px;
+}
+
+.course1{
+    display: flex;
+    margin-left: 150px;
+    justify-content: center;
+}
+.courses1{
+margin-left: -395px;
+}
+.bold{
+    
+   
+    margin-left: -120px;
+    margin-right: -00px;
+}
+.bold1{
+    margin-left: 750px;
+    margin-right: -370px;
+}
+
+
+.course2{
+    justify-content:center; 
+    justify-content: 300px;
+     display: flex;
+     margin-left: 304px;
+    
+}
+.courses2{
+    margin-left: 750px;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    justify-content: space-around;
+    align-items: baseline;
+
+}
+.coursetwo {
+    
+    display: flex;
+    align-content: flex-start;
+    justify-content: space-between;
+    margin-left: 700px;
+}
+.skill {
+    display: flex;
+     font-size: 20px;
+    background-color: #5b5b5b;
+    margin-right: 200px;
+    text-align: 300px;
+}
+.skills {
+    font-size: 40px;
+    padding: 200px 120px 200px 80px;
+    background-color: #f4f1eb;
+}
+.professional-skills {
+    padding: 80px 500px 80px 80px;
+    color: white;
+    margin-right: -100px;
+   
+
+}
+.works {
+    font-size: 40px;
+    padding: 80px;
+}
+.photos-one {
+    display: flex;
+    justify-content: space-around;
+}
+.photos-two {
+    display: flex;
+    justify-content: space-around;
+}
+.feedback {
+    background-color: #f4f1eb;
+}
+.feedback-one {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+.client-one-text {
+    padding: 10px 50px 10px 100px;
+    text-align: center;
+}
+.main-text1{
+    font-size: 22px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: -100px; 
+}
+.main-text2{
+    margin-left: 400px; 
+    font-size: x-large;
+    margin-top: -100px;
+}
+.text1{
+   
+
+    margin-left: 400px;
+    font-size: xx-large;
+    margin-top: -100px;
+}
+.satify{
+    margin-left: 400px;
+}
+.satify1{
+    margin-left: 400px;
+
+}
+.name-text {
+    
+
+    font-size: 22px;
+    padding-top: 30px;
+    padding-left: 400px;
+}
+.contact {
+    background-color: #5b5b5b;
+    padding: 80px;
+    color: white;
+}
+.connect {
+    font-size: 50px;
+    padding-bottom: 100px;
+}
+.contact-info {
+    font-size: 20px;
+}
+.follow {
+    text-align-last: left;
+}
